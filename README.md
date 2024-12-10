@@ -30,3 +30,13 @@ Responses are streamed in real-time, giving users immediate feedback.
 - **Error Handling:**
 
 Utilizes LangChain's error handling features to gracefully manage parsing errors and incomplete responses.
+
+### Prerequisites
+- **Python 3.9 or later**
+- **Required Python packages:**
+- **streamlit**
+- **langchain**
+- **langchain_groq**
+- **langchain_community**
+- **python-dotenv**
+
