@@ -4,14 +4,13 @@
 This project is an interactive chatbot application powered by LangChain and Streamlit that integrates advanced search capabilities using tools like Arxiv, Wikipedia, and DuckDuckGo. The chatbot provides real-time responses by leveraging large language models (LLMs) and search APIs to deliver accurate and relevant answers to user queries.
 
 ### Features
-**Interactive Chat Interface:** A user-friendly interface built with Streamlit for seamless interactions.
-**Search Tools Integration:** Includes tools for fetching content from:
-**Arxiv:** Academic papers and research articles.
-**Wikipedia:** Summarized content from the largest online encyclopedia.
-**DuckDuckGo:** Web search results for general queries.
-**LLM Integration:** Uses the ChatGroq model for natural language understanding and generating contextual responses.
-**Session Management:** Maintains chat history during user sessions for a conversational experience.
-**Callback Monitoring:** Displays the agent's thought process and actions using the StreamlitCallbackHandler.
+-**Interactive Chat Interface:** A user-friendly interface built with Streamlit for seamless interactions.-**Search Tools Integration:** Includes tools for fetching content from:
+-**Arxiv:** Academic papers and research articles.
+-**Wikipedia:** Summarized content from the largest online encyclopedia.
+-**DuckDuckGo:** Web search results for general queries.
+-**LLM Integration:** Uses the ChatGroq model for natural language understanding and generating contextual responses.
+-**Session Management:** Maintains chat history during user sessions for a conversational experience.
+-**Callback Monitoring:** Displays the agent's thought process and actions using the StreamlitCallbackHandler.
 ### How It Works
 #### Setup API Key:
 
