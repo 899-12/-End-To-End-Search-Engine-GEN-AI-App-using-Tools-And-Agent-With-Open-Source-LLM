@@ -13,14 +13,14 @@ This project is an interactive chatbot application powered by LangChain and Stre
 - **Session Management:** Maintains chat history during user sessions for a conversational experience.
 - **Callback Monitoring:** Displays the agent's thought process and actions using the StreamlitCallbackHandler.
 ### How It Works
-#### Setup API Key:
+- **Setup API Key:**
 
 Users input their Groq API key in the Streamlit sidebar to authenticate the LLM.
-**Chat Interface:**
+- **Chat Interface:**
 
 Users interact with the chatbot by typing questions or prompts into the chat input box.
 Previous conversations are displayed for context.
-**Search and Response Generation:**
+- **Search and Response Generation:**
 
 The chatbot leverages the integrated tools (Arxiv, Wikipedia, DuckDuckGo) to fetch relevant information.
 The ChatGroq LLM processes the user's query and combines it with the retrieved data to generate a response.
