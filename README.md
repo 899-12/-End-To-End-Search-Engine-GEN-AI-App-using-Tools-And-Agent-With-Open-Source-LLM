@@ -24,9 +24,9 @@ Previous conversations are displayed for context.
 
 The chatbot leverages the integrated tools (Arxiv, Wikipedia, DuckDuckGo) to fetch relevant information.
 The ChatGroq LLM processes the user's query and combines it with the retrieved data to generate a response.
-**Streaming Output:**
+- **Streaming Output:**
 
 Responses are streamed in real-time, giving users immediate feedback.
-**Error Handling:**
+- **Error Handling:**
 
 Utilizes LangChain's error handling features to gracefully manage parsing errors and incomplete responses.
