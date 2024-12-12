@@ -1,3 +1,13 @@
+---
+license: apache-2.0
+title: Search Engine
+sdk: streamlit
+emoji: 🏃
+colorFrom: yellow
+colorTo: red
+short_description: Search Engine with LLM
+---
+
 # End-To-End-Search-Engine-GEN-AI-App-using-Tools-And-Agent-With-Open-Source-LLM
 
 ### Overview
